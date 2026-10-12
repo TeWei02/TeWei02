@@ -62,6 +62,7 @@
 
 | 專案 | 說明 | 技術 |
 | :--- | :--- | :--- |
+| [**Exam-Study-Site**](https://github.com/TeWei02/Exam-Study-Site) · [線上版](https://tewei02.github.io/Exam-Study-Site/) | 資料驅動的考古題解題學習站：涵蓋 111–115 五個學年度、五個科目，純靜態、可離線。新增科目或年份只要改一個索引檔，架構歡迎直接取用 | `HTML` `JavaScript` |
 | [**sensory-shield**](https://github.com/TeWei02/sensory-shield) | 為神經多樣性使用者設計的視覺噪音過濾擴充功能 | `JavaScript` `Manifest V3` |
 | [StatSigCalculator](https://github.com/TeWei02/StatSigCalculator) | A/B 測試統計顯著性與樣本數計算器 | `React` `TypeScript` |
 | [Carbon.Negtive](https://github.com/TeWei02/Carbon.Negtive) | 負碳技術平台 | `Next.js` `TypeScript` |
