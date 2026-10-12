@@ -67,6 +67,7 @@
 | [Carbon.Negtive](https://github.com/TeWei02/Carbon.Negtive) | 負碳技術平台 | `Next.js` `TypeScript` |
 | [wildstream-guardian](https://github.com/TeWei02/wildstream-guardian) | 野溪守護者 — 河川水質監測平台 | `全端` `IoT` |
 | [agent-commons](https://github.com/TeWei02/agent-commons) | 可自架的 AI 代理人經驗交換所 | `FastAPI` `SSE` `SQLite` |
+| [**書審資料包產生器**](https://github.com/TeWei02/application-package-generator) | 純本機、離線可用的備審資料整理工具：盤點應繳項目、自動歸類、SHA-256 重複偵測、缺件檢查、手寫稿紙、繁中／English 雙語 | `HTML` `零依賴` `隱私優先` |
 
 ---
 
