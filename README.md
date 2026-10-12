@@ -70,6 +70,21 @@
 | [agent-commons](https://github.com/TeWei02/agent-commons) | 可自架的 AI 代理人經驗交換所 | `FastAPI` `SSE` `SQLite` |
 | [**書審資料包產生器**](https://github.com/TeWei02/application-package-generator) | 純本機、離線可用的備審資料整理工具：盤點應繳項目、自動歸類、SHA-256 重複偵測、缺件檢查、手寫稿紙、繁中／English 雙語 | `HTML` `零依賴` `隱私優先` |
 
+## 實測基準
+
+專案裡最容易被寫得漂亮、也最容易被含糊帶過的，就是效能。我把兩個專案**自己量出來的數字**放在同一頁——包含對專案本身不利的結果。
+
+| 基準 | 量到什麼 | 結果 |
+| :--- | :--- | :--- |
+| [**前瞻距離掃描**](https://tewei02.github.io/benchmarks/#ros-chart) | 機器人路徑追蹤基準對其唯一參數的回應（10 個前瞻距離 × 6 個情境） | 專案原本採用的 `Ld = 30` 不是好的工作點：報酬比實測最佳低 **25%**、追蹤偏差是 **2.3 倍** |
+| [**管線階段成本**](https://tewei02.github.io/benchmarks/#pkt-chart) | 封包分析管線在 200 / 1,000 / 5,000 / 20,000 個封包下各階段的耗時 | 載入階段吃掉 **81%** 的時間，解析之後的所有階段合計不到 **0.07 秒** |
+
+每一項都由專案自己的程式量測、寫成 JSON，再由頁面直接讀取渲染——所以頁面上的數字不可能跟資料檔脫節。兩個基準都有**內建護欄**，會驗證掃描沒有跑歪，不符就非零退出。
+
+[![實測基準](https://img.shields.io/badge/%E5%AF%A6%E6%B8%AC%E5%9F%BA%E6%BA%96-tewei02.github.io%2Fbenchmarks-00d4aa?style=flat-square&logo=githubpages&logoColor=white)](https://tewei02.github.io/benchmarks/)
+
+---
+
 ## 合作與服務
 
 研究之外，我也接**軟體開發委託**與**程式教學**。如果你的問題是「這件事能不能用程式解決」，可以直接寫信給我。
