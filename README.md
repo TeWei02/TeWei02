@@ -70,6 +70,22 @@
 | [agent-commons](https://github.com/TeWei02/agent-commons) | 可自架的 AI 代理人經驗交換所 | `FastAPI` `SSE` `SQLite` |
 | [**書審資料包產生器**](https://github.com/TeWei02/application-package-generator) | 純本機、離線可用的備審資料整理工具：盤點應繳項目、自動歸類、SHA-256 重複偵測、缺件檢查、手寫稿紙、繁中／English 雙語 | `HTML` `零依賴` `隱私優先` |
 
+## 合作與服務
+
+研究之外，我也接**軟體開發委託**與**程式教學**。如果你的問題是「這件事能不能用程式解決」，可以直接寫信給我。
+
+| 項目 | 內容 |
+| :--- | :--- |
+| **軟體開發接案** | Python 自動化、資料處理與爬蟲、網頁／小型全端、AI 應用整合、系統與網路程式、ROS 2 |
+| **程式家教與專題指導** | 高中職程式設計／APCS；大學資料結構、演算法、作業系統、計算機網路；專題從發想到報告 |
+| **特殊選才／個人申請書審檢核** | 逐項規格核對、缺件與截止日盤點、自傳與學習計畫結構建議 |
+
+**流程**：聊需求（15 分鐘）→ 書面範圍與報價 → 分段交付 → 驗收。小型自動化腳本數千元起，網站與資料系統萬元以上。**談需求不用錢。**
+
+[![服務與定價](https://img.shields.io/badge/%E6%9C%8D%E5%8B%99%E8%88%87%E5%AE%9A%E5%83%B9-tewei02.github.io%2Fservices-00d4aa?style=flat-square&logo=githubpages&logoColor=white)](https://tewei02.github.io/services/)
+[![免費工具](https://img.shields.io/badge/%E5%85%8D%E8%B2%BB%E5%B7%A5%E5%85%B7-%E6%9B%B8%E5%AF%A9%E8%B3%87%E6%96%99%E5%8C%85%E7%94%A2%E7%94%9F%E5%99%A8-00d4aa?style=flat-square)](https://tewei02.github.io/writings/tool/)
+[![來信討論](https://img.shields.io/badge/%E4%BE%86%E4%BF%A1%E8%A8%8E%E8%AB%96-tewei.ko0418%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com?subject=%E5%90%88%E4%BD%9C%E8%A9%A2%E5%95%8F)
+
 ---
 
 ## 技術能力
