@@ -10,6 +10,7 @@
 [![Website](https://img.shields.io/badge/Website-tewei02.github.io-6ea8fe?style=flat-square&logo=githubpages&logoColor=white)](https://tewei02.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1348--3558-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1348-3558)
 [![Email](https://img.shields.io/badge/Email-tewei.ko0418@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ROS2+Developer;LLM+Fine-tuning+%26+Edge+AI;Building+ModernReader+for+Cognitive+Rythm+Alignment" alt="Typing SVG" />
 
 </div>
 
@@ -37,6 +38,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeWei02&theme=react-dark&hide_border=true" alt="Activity Graph" />
+
+</div>
+
 ---
 
 ## 關於
@@ -45,54 +52,19 @@
 
 我的訓練歷程橫跨機械製圖、建築與室內設計，再到資訊工程。路徑看似分歧，關切的問題卻始終是同一件事——**「體驗」本身如何被運算與重建**。
 
-目前以 **Project H.O.L.O.** 為核心研究計畫，並在系統、網路與機器人導航方向累積工程實作。
-
----
-
-## 核心研究 · Project H.O.L.O.
-
-> 「故事的核心在於體驗，而非僅是文字。數百年來，我們透過視覺解碼符號來理解故事——但文字本身，僅是通往故事世界的媒介。」
-
-| 面向 | 內容 |
-| :--- | :--- |
-| **問題** | 敘事只能透過閱讀取得，讀者始終是旁觀者 |
-| **方法** | 深度語意分析解構文本 → 多模態語意建模 → 重建為聽覺與感官回饋 |
-| **模型** | Cognitive Rhythm Alignment (CRA)：即時追蹤閱讀行為與認知狀態，動態調適內容呈現 |
-| **實作** | [ModernReader](https://github.com/TeWei02/ModernReader) — 本計畫的參考實作 |
-| **狀態** | 概念驗證（PoC）· 2026 海峽兩岸創業大賽決賽入圍 |
-
----
-
-## 精選專案
-
-### 核心研究
-
-| 專案 | ꪪ明 | 技術 |
-| :--- | :--- | :--- |
-| [**ModernReader**](https://github.com/TeWei02/ModernReader) · [線上版](https://tewei02.github.io/ModernReader/) | Project H.O.L.O. — 故事的多感官重建引擎，語意解構文本並重塑為聽覺與感官回饋 | `Python` `NLP` `多模態` |
-| [**qbridge**](https://github.com/TeWei02/qbridge) | 量子計算模擬器：state vector 精確模擬、通用量子閘、量子測量、Bell 態、Deutsch–Jozsa、Grover | `C++17` `Python` |
-
-### 系統與工程
-
-| 專案 | 說明 | 技術 |
-| :--- | :--- | :--- |
-| [From-Signal-to-System](https://github.com/TeWei02/From-Signal-to-System) · [報告](https://tewei02.github.io/From-Signal-to-System/) | 把機器人導航視為端到端通訊系統：感測融合、SLAM 前端、佔據柵格與 costmap、A* 與 DWA 規劃 | `ROS 2` `Python` |
-| [Robotic-Navigation-and-Exploration](https://github.com/TeWei02/Robotic-Navigation-and-Exploration) | 機器人導航與探索（TAICA AI 衛星課程） | `Python` `強化學習` |
-| [Real-time-Packet-Monitoring-and-Traffic-Statistics-System](https://github.com/TeWei02/Real-time-Packet-Monitoring-and-Traffic-Statistics-System) | 即時封包監測與流量統計系統 | `Python` `網路程式設計` |
-| [multithreaded-file-transfer-scheduler-simulator](https://github.com/TeWei02/multithreaded-file-transfer-scheduler-simulator) | 多執行緒檔案傳輸與排程模擬器 | `C++17` `併發` |
-| [calc-tracker](https://github.com/TeWei02/calc-tracker) | 微積分練習與錯題管理系統 | `Flask` `SQLite` |
-
-### 互動與應用
-
-| 專案 | 說明 | 技術 |
-| :--- | :--- | :--- |
-| [**Exam-Study-Site**](https://github.com/TeWei02/Exam-Study-Site) · [線上版](https://tewei02.github.io/Exam-Study-Site/) | 資料驅動的考古題解題學習站：涵蓋 111–115 五個學年度、五個科目，純靜態、可離線。新增科目或年份只要改一個索引檔，架構歡迎直接取用 | `HTML` `JavaScript` |
-| [**sensory-shield**](https://github.com/TeWei02/sensory-shield) | 為神經多樣性使用者設計的視覺噪音過濾擴充功能 | `JavaScript` `Manifest V3` |
-| [StatSigCalculator](https://github.com/TeWei02/StatSigCalculator) | A/B 測試統計顯著性與樣本數計算器 | `React` `TypeScript` |
-| [Carbon.Negtive](https://github.com/TeWei02/Carbon.Negtive) | 負碳技術平台 | `Next.js` `TypeScript` |
-| [wildstream-guardian](https://github.com/TeWei02/wildstream-guardian) | 野溪守護者 — 河川水質監測平台 | `全端` `IoT` |
-| [agent-commons](https://github.com/TeWei02/agent-commons) | 可自架的 AI 代理人經驗交換所 | `FastAPI` `SSE` `SQLite` |
-| [**書審資料包產生器**](https://github.com/TeWei02/application-package-generator) | 純本機、離線可用的備審資料整理工具：盤點應繳項目、自動歸類、SHA-256 重複偵測、缺件檢查、手寫稿紙、繁中／English 雙語 | `HTML` `零依賴` `隱私優先` |
+��bcy.�H
+���ڙX��˓�ˊ��9ஹ�.9o���%9�m�*"9�j��#9.)�g*9����lx� y���-��"!��g�fj9.��l#�"*���yd$y�+��cym�y�"�k�/g8� ���KKB����9�.9o���%9�m�0���ڙX��˓�˂���8�#9�ay.���9�.9o��g*9��:j�:je��#: #:gg�`�y�+����ke�� ��n9�o�nm9/���#9�$y`$z`#�`c�)��)��)���9�)�&g�/���!�)���ay.���%8�%9/a����ke��+:.���#9`�y�+�`&�o�9�ay.��.%��c9�9j��.��� ��#B��:gh�d$H9ai�k�H��KKH�KKH�
+��ec�hc
+��9�f9.��c� �z`#�`c�e�z+�9c�o���#:+�: !yi���`��+���z)�: !H�
+����y��J��9��yn��*���#�b!���:)���������+8���9i&��(y�b�*���#�n(H8���:a�yn�஺ oz)��"!��'�k�9f�ib��
+���(yg�ʊ���ۚ]]�H�]H[YۛY[�
+ԐJ{�&�cl��`�/�z.i:e�z+�:(c9஺"!�*�y��y��9�b��#9b�y�b�*��`jyai�k�ydb9���
+��k�/g
+���[�\���XY\�J΋���]X����K�U�ZL��[�\���XY\�H8�%9�+:*"9�j��9c��  �k�/g�
+����9�bʊ�9���o�zje�+b{�"���"p�����9�m�l�yajyl�9bmy�kyi)�,�y�n�,�yaiyg#H��KKB��KKB��]�[YۏH��[�\�����[Y�ܘ�H�΋���]X�\�XYYK\�]˝�\��[�\�\K�[���\�\��[YOUU�ZL���\�S[�\���XY\��[YOX�YKYܙY[��[H�[�\���XY\��ς�[Y�ܘ�H�΋���]X�\�XYYK\�]˝�\��[�\�\K�[���\�\��[YOUU�ZL���\�Q���KT�Yۘ[]�T�\�[I�[YOX�YKYܙY[��[H����KT�Yۘ[]�T�\�[H�ς�[Y�ܘ�H�΋���]X�\�XYYK\�]˝�\��[�\�\K�[���\�\��[YOUU�ZL���\�\X��Y�I�[YOX�YKYܙY[��[H�X��Y�H�ς�[Y�ܘ�H�΋���]X�\�XYYK\�]˝�\��[�\�\K�[���\�\��[YOUU�ZL���\�T�؛�X�S�]�Y�][ۋX[�Q^ܘ][ۉ�[YOX�YKYܙY[��[H��؛�X�S�]�Y�][ۋX[�Q^ܘ][ۈ�ς���]������9쯺`n9l"9�b�����9�.9o���%9�m���9l"9�b:����#�9��:(d���KKH�KKH�KKH�ʊ�[�\���XY\���J΋���]X����K�U�ZL��[�\���XY\�H0�����."��bJ΋��]�ZL���]X��[��[�\���XY\��H�ڙX��˓�ˈ8�%9�ay.���9i&��'�k�:a�yn�o%y���#:*���#�)���������+9.)�a�yhdy஺ oz)��"!��'�k�9f�ib�]ۘ�9i&��(y�b��ʊ�X��Y�J��J΋���]X����K�U�ZL��X��Y�JH:a��kd:*"9���(y��9fj;�&��]H�X�܈9쯹讹�(y��8� z`&��*:a��kd:e�8� za��kd9�+:a��� P�[9�b�� Q]]��8�$қޜ�x� Qܛݙ\����M�]ۘ�����9����lz"!�m�y�"�9l"9�b:*���#�9��:(d���KKH�KKH�KKH�ќ��KT�Yۘ[]�T�\�[WJ΋���]X����K�U�ZL�ќ��KT�Yۘ[]�T�\�[JH0���h,ydb�J΋��]�ZL���]X��[�ќ��KT�Yۘ[]�T�\�[K�H9����g�fj9.��l#�"*�)��ஹ���b,9���`&�*"�����l{�&��'��+:'�yd"8� T�SH9bcy���� y/e9�湧�y�/:"!����X\8� PJ�:"!��H:)��b������]ۘ�ԛ؛�X�S�]�Y�][ۋX[�Q^ܘ][ۗJ΋���]X����K�U�ZL�ԛ؛�X�S�]�Y�][ۋX[�Q^ܘ][ۊH9�g�fj9.��l#�"*�"!�����(��"RP�HRH:(f��'�*���"��"H]ۘ9o-�c%�kn9���ԙX[][YKTX��]S[ۚ]ܚ[��X[�U�Y��X�T�]\�X��T�\�[WJ΋���]X����K�U�ZL�ԙX[][YKTX��]S[ۚ]ܚ[��X[�U�Y��X�T�]\�X��T�\�[JH9cl��`�l yc!y����+:"!��`za���lz*"9����lH]ۘ9���-���"�o#�*+z*"��][]�XYYY�[K]�[�ٙ\�\��Y[\�\�[][]ܗJ΋���]X����K�U�ZL��][]�XYYY�[K]�[�ٙ\�\��Y[\�\�[][]܊H9i&�g��(c9�乪�9�b9`��/.:"!�����"��(y��9fj���M�9/my�o���[�]�X��\�J΋���]X����K�U�ZL���[�]�X��\�H9o���cyb!���9��"!�c+�hc9�y�!�����lH�\���S]X�����9.��b�z"!���y�*��9l"9�b:*���#�9��:(d���KKH�KKH�KKH�ʊ�^[KT�YKT�]J��J΋���]X����K�U�ZL��^[KT�YKT�]JH0�����."��bJ΋��]�ZL���]X��[��^[KT�YKT�]K�H:,����zjayb�y�:  �c�:hc:)��hc9kn9����{�&���z$��LLx�$�LMH9.�9`"�kn9nm9n��� y.�9`"���y���#9�%:gg9�b�� yc��f���� ���9h����y�빢%�nm9.�yc�)�y�.y. 9`"��(�o%y��;�#9�������hz/���9��yc��*S�]�T�ܚ\�ʊ��[��ܞK\�Y[
+��J΋���]X����K�U�ZL���[��ܞK\�Y[
+H9ஹ�g����i&��(��)�/o��*: !z*+z*"9�:)��)��fj�g��`c��﹤�9aayb�� �H�]�T�ܚ\X[�Y�\������]�Y��[�[]ܗJ΋���]X����K�U�ZL���]�Y��[�[]܊HKЈ9�+:*i��lz*":hk�$e��)�"!��(��+9�n:*"9��fj�XX�\T�ܚ\���\��ۋ��Y�]�WJ΋���]X����K�U�ZL���\��ۋ��Y�]�JH:,�9����:(d�nl�c��^���\T�ܚ\���[��X[KY�X\�X[�J΋���]X����K�U�ZL���[��X[KY�X\�X[�H:a㹮��k�:+m� !H8�%9���m�y�-:,�����+9nl�c�9aj9���[���Y�[�X��[[ۜ�J΋���]X����K�U�ZL��Y�[�X��[[ۜ�H9c��!깧���RH9.���!�.�����je�.�9����`�\�TX��X�S]X�ʊ���9k�z,����yc!y�(��'�fj
+��J΋��ithub.com/TeWei02/application-package-generator) | 純本機、離線可用的備審資料整理工具：盤點應繳項目、自動歸類、SHA-256 重複偵測、缺件檢查、手寫稿紙、繁中／English 雙語 | `HTML` `零依賴` `隱私優先` |
 
 ## 實測基準
 
@@ -116,30 +88,32 @@
 | 項目 | 內容 |
 | :--- | :--- |
 | **軟體開發接案** | Python 自動化、資料處理與爬蟲、網頁／小型全端、AI 應用整合、系統與網路程式、ROS 2 |
-| **程式家教與專題指導** | 高中職程式設計／APCS；大學資料結構、演算法、作業系統、計算機網路；專題從發想到報告 |
+| **程式家教與專題指導** | 高中職程式設計／APCS；大學資料結構、演算法、作業系統、計算嚧網路；專題從發想到報告 |
 | **特殊選才／個人申請書審檢核** | 逐項規格核對、缺件與截止日盤點、自傳與學習計畫結構建議 |
 
 **流程**：聊需求（15 分鐘）→ 書面範圍與報價 → 分段交付 → 驗收。小型自動化腳本數千元起，網站與資料系統萬元以上。**談需求不用錢。**
 
 [![服務與定價](https://img.shields.io/badge/%E6%9C%8D%E5%8B%99%E8%88%87%E5%AE%9A%E5%83%B9-tewei02.github.io%2Fservices-00d4aa?style=flat-square&logo=githubpages&logoColor=white)](https://tewei02.github.io/services/)
 [![免費工具](https://img.shields.io/badge/%E5%85%8D%E8%B2%BB%E5%B7%A5%E5%85%B7-%E6%9B%B8%E5%AF%A9%E8%B3%87%E6%96%99%E5%8C%85%E7%94%A2%E7%94%9F%E5%99%A8-00d4aa?style=flat-square)](https://tewei02.github.io/writings/tool/)
-[![來信討論](https://img.shields.io/badge/%E4%BE%86%E4%BF%A1%E8%A8%8E%E8%AB%96-tewei.ko0418%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com?subject=%E5%90%88%E4%BD%9C%E8%A9%A2%E8%A9%A2%E8%A9%A2)
+[![來信討論](https://img.shields.io/badge/%E4%BE%86%E4%BF%A1%E8%A8%8E%E8%AB%96-tewei.ko0418%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com?subject=%E5%90%88%E4%BD%9C%E8%A9%9B%E8%A9%9B%E8%A9%9B)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TeWei02)
+[![Email](https://img.shields.io/badge/-Email-ffffff?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:tewei.ko0418@gmail.com)
 
 ---
 
 ## 技術能力
 
-**Tech Stack**
+**Tech Stackm**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2F2C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ROS&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-**語言**
+**�*��* *
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -148,12 +122,12 @@
 
 **AI 與研究**
 
-![NLP](https://img.shields.io/badge/NLP-語意建模-4B8BBE?style=flat-square)
-![情感運算](https://img.shields.io/badge/情感運算-Affective%20Computing-C2410C?style=flat-square)
+!mNLP](https://img.shields.io/badge/NLP-骝意建樱�-4B8BBE?style=flat-square)
+![情感運算-](https://img.shields.io/badge/情感運算-Affective%20Computing-C2410C?style=flat-square)
 ![強化學習](https://img.shields.io/badge/強化學習-Reinforcement%20Learning-166534?style=flat-square)
 ![量子演算法](https://img.shields.io/badge/量子演算法-Quantum%20Algorithms-5B21B6?style=flat-square)
 
-**系統與後端**
+**系統與旬端**
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
