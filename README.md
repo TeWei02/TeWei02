@@ -20,6 +20,20 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TeWei02&show_icons=true&theme=blue-green&rank_icon=github&hide_border=true" alt="TeWei02's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeWei02&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=TeWei02&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TeWei02&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=TeWei02&color=blue" alt="Profile Views" />
 
 </div>
 
@@ -53,7 +67,7 @@
 
 ### 核心研究
 
-| 專案 | 說明 | 技術 |
+| 專案 | ꪪ明 | 技術 |
 | :--- | :--- | :--- |
 | [**ModernReader**](https://github.com/TeWei02/ModernReader) · [線上版](https://tewei02.github.io/ModernReader/) | Project H.O.L.O. — 故事的多感官重建引擎，語意解構文本並重塑為聽覺與感官回饋 | `Python` `NLP` `多模態` |
 | [**qbridge**](https://github.com/TeWei02/qbridge) | 量子計算模擬器：state vector 精確模擬、通用量子閘、量子測量、Bell 態、Deutsch–Jozsa、Grover | `C++17` `Python` |
@@ -115,6 +129,16 @@
 
 ## 技術能力
 
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ROS&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
 **語言**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -152,7 +176,7 @@
 | 期間 | 單位 | 內容 |
 | :--- | :--- | :--- |
 | 現就讀 | **南臺科技大學** | 資訊工程系 |
-| — | **TAICA 台灣人工智慧大學聯盟** | AI 衛星課程「機器導航與探索」 |
+| — | **TAICA 台灣人工智慧大學聯盟** | � ��o AI 衛星課程「機器導航與探索」 |
 | — | **正修科技大學** | 建築與室內設計系 |
 | — | **國立嘉義高工** | 機械製圖科 |
 
