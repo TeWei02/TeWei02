@@ -15,6 +15,16 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeWei02&show_icons=true&theme=blue-green&rank_icon=github&hide_border=true" alt="TeWei02's GitHub Stats" />
+
+</div>
+
+---
+
 ## 關於
 
 南臺科技大學資訊工程系，研究主軸為**情感運算**與**語意感知運算**。
@@ -52,7 +62,7 @@
 
 | 專案 | 說明 | 技術 |
 | :--- | :--- | :--- |
-| [From-Signal-to-System](https://github.com/TeWei02/From-Signal-to-System) · [報告](https://tewei02.github.io/From-Signal-to-System/) | 把機器人導航視為端到端通訊系統：感測融合、SLAM 前端、佔據柵格與 costmap、A\* 與 DWA 規劃 | `ROS 2` `Python` |
+| [From-Signal-to-System](https://github.com/TeWei02/From-Signal-to-System) · [報告](https://tewei02.github.io/From-Signal-to-System/) | 把機器人導航視為端到端通訊系統：感測融合、SLAM 前端、佔據柵格與 costmap、A* 與 DWA 規劃 | `ROS 2` `Python` |
 | [Robotic-Navigation-and-Exploration](https://github.com/TeWei02/Robotic-Navigation-and-Exploration) | 機器人導航與探索（TAICA AI 衛星課程） | `Python` `強化學習` |
 | [Real-time-Packet-Monitoring-and-Traffic-Statistics-System](https://github.com/TeWei02/Real-time-Packet-Monitoring-and-Traffic-Statistics-System) | 即時封包監測與流量統計系統 | `Python` `網路程式設計` |
 | [multithreaded-file-transfer-scheduler-simulator](https://github.com/TeWei02/multithreaded-file-transfer-scheduler-simulator) | 多執行緒檔案傳輸與排程模擬器 | `C++17` `併發` |
@@ -99,7 +109,7 @@
 
 [![服務與定價](https://img.shields.io/badge/%E6%9C%8D%E5%8B%99%E8%88%87%E5%AE%9A%E5%83%B9-tewei02.github.io%2Fservices-00d4aa?style=flat-square&logo=githubpages&logoColor=white)](https://tewei02.github.io/services/)
 [![免費工具](https://img.shields.io/badge/%E5%85%8D%E8%B2%BB%E5%B7%A5%E5%85%B7-%E6%9B%B8%E5%AF%A9%E8%B3%87%E6%96%99%E5%8C%85%E7%94%A2%E7%94%9F%E5%99%A8-00d4aa?style=flat-square)](https://tewei02.github.io/writings/tool/)
-[![來信討論](https://img.shields.io/badge/%E4%BE%86%E4%BF%A1%E8%A8%8E%E8%AB%96-tewei.ko0418%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com?subject=%E5%90%88%E4%BD%9C%E8%A9%A2%E5%95%8F)
+[![來信討論](https://img.shields.io/badge/%E4%BE%86%E4%BF%A1%E8%A8%8E%E8%AB%96-tewei.ko0418%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com?subject=%E5%90%88%E4%BD%9C%E8%A9%A2%E8%A9%A2%E8%A9%A2)
 
 ---
 
