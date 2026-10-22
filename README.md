@@ -11,6 +11,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1348--3558-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1348-3558)
 [![Email](https://img.shields.io/badge/Email-tewei.ko0418@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com)
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ROS2+Developer;LLM+Fine-tuning+%26+Edge+AI;Building+ModernReader+for+Cognitive+Rythm+Alignment" alt="Typing SVG" />
+[![中文版](https://img.shields.io/badge/中文版-README.md-38BDF8?style=flat-square)](https://github.com/TeWei02/TeWei02/blob/main/README.md) [![English](https://img.shields.io/badge/English-README.en.md-38BDF8?style=flat-square)](https://github.com/TeWei02/TeWei02/blob/main/README.en.md)
 
 </div>
 
@@ -54,7 +55,7 @@
 
 ## 關於
 
-南臺科技大學資訊工程系，研究主軸為**情感運算**與**語意感知運算**。
+自學者，研究主軸為**情感運算**與**語意感知運算**。
 
 我的訓練歷程橫跨機械製圖、建築與室內設計，再到資訊工程。路徑看似分歧，關切的問題卻始終是同一件事——**「體驗」本身如何被運算與重建**。
 
@@ -251,7 +252,7 @@
 
 | 期間 | 單位 | 內容 |
 | :--- | :--- | :--- |
-| 現就讀 | **南臺科技大學** | 資訊工程系 |
+| 自學進修 | — | AI / ROS 2 / 軟體工程 |
 | — | **TAICA 台灣人工智慧大學聯盟** | TAICA AI 衛星課程「機器導航與探索」 |
 | — | **正修科技大學** | 建築與室內設計系 |
 | — | **國立嘉義高工** | 機械製圖科 |
