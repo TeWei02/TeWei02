@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TeWei02&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=TeWei02&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeWei02&theme=react-dark&hide_border=true" alt="Activity Graph" />
+<img src="https://github-activity-graph.vercel.app/graph?username=TeWei02&theme=react-dark&hide_border=true" alt="Activity Graph" />
 
 </div>
 
