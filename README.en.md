@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TeWei02&color=blue" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=TeWei02" alt="Profile Views" />
 
 </div>
 
@@ -201,7 +201,7 @@ Beyond research, I take **software development commissions** and **programming t
 | Service | Scope |
 | :--- | :--- |
 | **Software development** | Python automation, data processing & scraping, web / small full-stack, AI integration, systems & network programming, ROS 2 |
-| **Tutoring & project mentorship** | High-school programming / APCS; university data structures, algorithms, OS, computer networks; projects from idea to report |
+| **Tutoring & project mentorship** | High-school programming / APCS; university data structures, algorithms, OS, computer networks; projects from idea to record |
 | **Special-admission application review** | Itemized checklist review, missing-item & deadline tracking, structure advice for personal statements & study plans |
 
 **Process**: chat about needs (15 min) → written scope & quote → staged delivery → acceptance. Small automation scripts start at a few thousand NTD; websites & data systems from tens of thousands. **Talking about needs is free.**
@@ -262,10 +262,10 @@ Beyond research, I take **software development commissions** and **programming t
 
 | Period | Institution | Field |
 | :--- | :--- | :--- |
-| Self-taught | — | AI / ROS 2 / Software Engineering |
-| — | TAICA (Taiwan AI College Alliance) | AI satellite course "Robot Navigation & Exploration" |
+| Self-taught · TAICA (Taiwan AI College Alliance) | — | AI / ROS 2 / Software Engineering · AI satellite course "Robot Navigation & Exploration" |
+| — | Southern Taiwan University of Science and Technology | Computer Science & Information Engineering |
 | — | Cheng Shiu University | Architecture & Interior Design |
-| — | National Chiayi Industrial High School | Mechanical Drafting |
+| — | National Tainan Industrial High School | Mechanical Drafting |
 
 **Honors**　Southern Taiwan Literature Award, short-story category (Honorable Mention) · Finalist, Cross-Strait Entrepreneurship Competition · Young Flying Global Action Program
 
