@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # 柯德瑋 · Te-Wei Ko
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TeWei02&color=blue" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=TeWei02" alt="Profile Views" />
 
 </div>
 
@@ -264,10 +264,10 @@
 
 | 期間 | 單位 | 內容 |
 | :--- | :--- | :--- |
-| 自學進修 | — | AI / ROS 2 / 軟體工程 |
-| — | **TAICA 台灣人工智慧大學聯盟** | TAICA AI 衛星課程「機器導航與探索」 |
+| 自學進修 · TAICA 台灣人工智慧大學聯盟 | — | AI / ROS 2 / 軟體工程 · TAICA AI 衛星課程「機器導航與探索」 |
+| — | **南臺科技大學** | 資訊工程系 |
 | — | **正修科技大學** | 建築與室內設計系 |
-| — | **國立嘉義高工** | 機械製圖科 |
+| — | **國立臺南高工** | 機械製圖科 |
 
 **榮譽**　南臺文學獎 短篇小說組佳作 · 海峽兩岸創業大賽 決賽入圍 · Young 飛全球行動
 
