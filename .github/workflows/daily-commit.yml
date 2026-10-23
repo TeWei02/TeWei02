@@ -1,0 +1,45 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "TeWei02"
+          git config user.email "229563995+TeWei02@users.noreply.github.com"
+
+      - name: Update activity file
+        run: |
+          mkdir -p activity
+          file="activity/daily-activity.md"
+          if [ ! -f "$file" ]; then
+            echo "# Daily Activity" > "$file"
+            echo "" >> "$file"
+          fi
+          echo "- $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> "$file"
+
+      - name: Commit and push
+        run: |
+          git add activity/daily-activity.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily activity update $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
