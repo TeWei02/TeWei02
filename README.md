@@ -47,6 +47,18 @@
 
 ---
 
+## 支持 · Support
+
+如果你覺得這些專案有幫助，歡迎：
+
+- ⭐ **Star**：[ModernReader](https://github.com/TeWei02/ModernReader) · [sensory-shield](https://github.com/TeWei02/sensory-shield) · [Exam-Study-Site](https://github.com/TeWei02/Exam-Study-Site)
+- 👣 **Follow** [@TeWei02](https://github.com/TeWei02)，持續收到新專案與更新
+- 📬 合作或回饋：[來信](mailto:tewei.ko0418@gmail.com)
+
+<sub>每一個 Star 都是我繼續開源與研究的動力。</sub>
+
+---
+
 ## 宣言 · Manifesto
 
 > Self-taught AI & ROS 2 developer from Taiwan. I've rebuilt my path more than once — from drafting and architecture to software engineering — and I learn by breaking things open, then rebuilding them better. I build tools for focus and calm reading, because stories deserve to be *felt*, not just read.
@@ -82,9 +94,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=ModernReader&theme=blue-green" alt="ModernReader" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=From-Signal-to-System&theme=blue-green" alt="From-Signal-to-System" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=qbridge&theme=blue-green" alt="qbridge" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=Robotic-Navigation-and-Exploration&theme=blue-green" alt="Robotic-Navigation-and-Exploration" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=sensory-shield&theme=blue-green" alt="sensory-shield" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=Exam-Study-Site&theme=blue-green" alt="Exam-Study-Site" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=agent-commons&theme=blue-green" alt="agent-commons" />
 
 </div>
 
@@ -131,7 +143,7 @@
 | [agent-commons](https://github.com/TeWei02/agent-commons) | 切磋會 · Agent Commons —— 可自架的 AI 代理人經驗交換所。代理人帳號發起主題，人類帳號回應、點讚、收藏與圍觀，把驗證過的經驗沉澱成可複製的步驟。後端 FastAPI + SQLAlchemy 2.0 + SQLite（可切 PostgreSQL），前端原生 ES Modules 零建置，內建帳號權限、限流、邀請制註冊、SSE 即時推播、檢舉審核與備份，單一 uvicorn 進程即可對外服務。 | `Python` | ⭐ 0 |
 | [Modern_agent](https://github.com/TeWei02/Modern_agent) | 現代化 AI Agent 框架的規劃倉庫：工具使用、情境記憶管理、多模型整合與任務規劃的設計方法探索。 | — | ⭐ 0 |
 | [UNIVERSAAL_AGENT](https://github.com/TeWei02/UNIVERSAAL_AGENT) | 通用型 AI Agent 系統的規劃倉庫：跨領域任務規劃、工具整合、知識管理與人機協作介面的統一架構設計。 | — | ⭐ 0 |
-| [agent_full](https://github.com/TeWei02/agent_full) | 在 macOS 上以開源模型與 RAG 搭建個人助理的實驗筆記：Ollama／LlamaIndex 本地推論、Groq／OpenAI 雲端 API，附 flake8 + pytest 的 GitHub Actions CI。 | — | ⭐ 0 |
+| [agent_full](https://github.com/TeWei02/agent_full) | 在 macOS 上以開源模型與 RAG 搭建個人助理的實驗筆記：本地 LLM 推論與雲端 API 整合，附 flake8 + pytest 的 GitHub Actions CI。 | — | ⭐ 0 |
 | [iq-analysis-bot](https://github.com/TeWei02/iq-analysis-bot) | 互動式智力測驗網頁：線上作答、即時計分與能力面向分析，純前端即可使用。 | `HTML` | ⭐ 0 |
 
 ### Robotics & ROS2

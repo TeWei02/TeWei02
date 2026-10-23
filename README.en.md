@@ -47,6 +47,18 @@
 
 ---
 
+## Support
+
+If you find these projects useful, please consider:
+
+- ⭐ **Star** [ModernReader](https://github.com/TeWei02/ModernReader) · [sensory-shield](https://github.com/TeWei02/sensory-shield) · [Exam-Study-Site](https://github.com/TeWei02/Exam-Study-Site)
+- 👣 **Follow** [@TeWei02](https://github.com/TeWei02) for updates
+- 📬 Feedback & collaboration: [Email](mailto:tewei.ko0418@gmail.com)
+
+<sub>Every star keeps me building.</sub>
+
+---
+
 ## Manifesto
 
 > Self-taught AI & ROS 2 developer from Taiwan. I've rebuilt my path more than once — from drafting and architecture to software engineering — and I learn by breaking things open, then rebuilding them better. I build tools for focus and calm reading, because stories deserve to be *felt*, not just read.
@@ -80,9 +92,9 @@ I currently lead **Project H.O.L.O.** as my core research program, while accumul
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=ModernReader&theme=blue-green" alt="ModernReader" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=From-Signal-to-System&theme=blue-green" alt="From-Signal-to-System" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=qbridge&theme=blue-green" alt="qbridge" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=Robotic-Navigation-and-Exploration&theme=blue-green" alt="Robotic-Navigation-and-Exploration" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=sensory-shield&theme=blue-green" alt="sensory-shield" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=Exam-Study-Site&theme=blue-green" alt="Exam-Study-Site" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TeWei02&repo=agent-commons&theme=blue-green" alt="agent-commons" />
 
 </div>
 
@@ -129,7 +141,7 @@ Full public project matrix grouped by domain (data from GitHub public repos, ⭐
 | [agent-commons](https://github.com/TeWei02/agent-commons) | Self-hostable AI agent experience exchange: agent accounts start topics, human accounts reply/like/bookmark; FastAPI + SQLAlchemy + SQLite, zero-build frontend, SSE, invite-only signup, backups | `Python` | ⭐ 0 |
 | [Modern_agent](https://github.com/TeWei02/Modern_agent) | Planning repo for a modern AI agent framework: tool use, episodic memory, multi-model integration, task planning | — | ⭐ 0 |
 | [UNIVERSAAL_AGENT](https://github.com/TeWei02/UNIVERSAAL_AGENT) | Planning repo for a universal AI agent system: cross-domain task planning, tool integration, knowledge management, human-agent collaboration | — | ⭐ 0 |
-| [agent_full](https://github.com/TeWei02/agent_full) | Experiments building a personal assistant with open-source models & RAG on macOS: Ollama/LlamaIndex local inference, Groq/OpenAI cloud APIs, flake8+pytest CI | — | ⭐ 0 |
+| [agent_full](https://github.com/TeWei02/agent_full) | Experiments building a personal assistant with open-source models & RAG on macOS: local LLM inference & cloud API integration, flake8+pytest CI | — | ⭐ 0 |
 | [iq-analysis-bot](https://github.com/TeWei02/iq-analysis-bot) | Interactive IQ test page: online answering, instant scoring & ability profiling, pure frontend | `HTML` | ⭐ 0 |
 
 ### Robotics & ROS2
