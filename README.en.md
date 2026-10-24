@@ -21,15 +21,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TeWei02&show_icons=true&theme=blue-green&rank_icon=github&hide_border=true" alt="TeWei02's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeWei02&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com/?user=TeWei02&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=TeWei02&show_icons=true&theme=blue-green&rank_icon=github&hide_border=true&hide=stars,forks,prs,issues&card_width=495&border_radius=14" alt="TeWei02's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeWei02&layout=compact&theme=blue-green&hide_border=true&langs_count=6&card_width=445&border_radius=14" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=TeWei02&theme=blue-green&hide_border=true&border_radius=14" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=TeWei02&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=TeWei02&theme=onedark&no-frame=true&row=2&column=4&margin-w=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -62,6 +62,14 @@ If you find these projects useful, please consider:
 ## Manifesto
 
 > Self-taught AI & ROS 2 developer from Taiwan. I've rebuilt my path more than once — from drafting and architecture to software engineering — and I learn by breaking things open, then rebuilding them better. I build tools for focus and calm reading, because stories deserve to be *felt*, not just read.
+
+---
+
+## Take a Break
+
+> If reading this page feels heavy, that's okay. Slow down — take a sip of water, stretch, look out the window for 20 seconds.
+> There is no deadline here. Your pace is always right.
+> *休息一下，你的節奏永遠是對的。*
 
 ---
 
@@ -137,45 +145,45 @@ Full public project matrix grouped by domain (data from GitHub public repos, ⭐
 
 | Project | Description | Language | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [**ModernReader**](https://github.com/TeWei02/ModernReader) | Project H.O.L.O. — modern Markdown reading & content management tool with voice guide, emotion tagging & AI summaries; PWA, Docker, full CI/CD | `Python` | ⭐ 0 |
-| [agent-commons](https://github.com/TeWei02/agent-commons) | Self-hostable AI agent experience exchange: agent accounts start topics, human accounts reply/like/bookmark; FastAPI + SQLAlchemy + SQLite, zero-build frontend, SSE, invite-only signup, backups | `Python` | ⭐ 0 |
-| [Modern_agent](https://github.com/TeWei02/Modern_agent) | Planning repo for a modern AI agent framework: tool use, episodic memory, multi-model integration, task planning | — | ⭐ 0 |
-| [UNIVERSAAL_AGENT](https://github.com/TeWei02/UNIVERSAAL_AGENT) | Planning repo for a universal AI agent system: cross-domain task planning, tool integration, knowledge management, human-agent collaboration | — | ⭐ 0 |
-| [agent_full](https://github.com/TeWei02/agent_full) | Experiments building a personal assistant with open-source models & RAG on macOS: local LLM inference & cloud API integration, flake8+pytest CI | — | ⭐ 0 |
-| [iq-analysis-bot](https://github.com/TeWei02/iq-analysis-bot) | Interactive IQ test page: online answering, instant scoring & ability profiling, pure frontend | `HTML` | ⭐ 0 |
+| [**ModernReader**](https://github.com/TeWei02/ModernReader) | Project H.O.L.O. — modern Markdown reading & content management tool with voice guide, emotion tagging & AI summaries; PWA, Docker, full CI/CD | `Python` | — |
+| [agent-commons](https://github.com/TeWei02/agent-commons) | Self-hostable AI agent experience exchange: agent accounts start topics, human accounts reply/like/bookmark; FastAPI + SQLAlchemy + SQLite, zero-build frontend, SSE, invite-only signup, backups | `Python` | — |
+| [Modern_agent](https://github.com/TeWei02/Modern_agent) | Planning repo for a modern AI agent framework: tool use, episodic memory, multi-model integration, task planning | — | — |
+| [UNIVERSAAL_AGENT](https://github.com/TeWei02/UNIVERSAAL_AGENT) | Planning repo for a universal AI agent system: cross-domain task planning, tool integration, knowledge management, human-agent collaboration | — | — |
+| [agent_full](https://github.com/TeWei02/agent_full) | Experiments building a personal assistant with open-source models & RAG on macOS: local LLM inference & cloud API integration, flake8+pytest CI | — | — |
+| [iq-analysis-bot](https://github.com/TeWei02/iq-analysis-bot) | Interactive IQ test page: online answering, instant scoring & ability profiling, pure frontend | `HTML` | — |
 
 ### Robotics & ROS2
 
 | Project | Description | Language | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [From-Signal-to-System](https://github.com/TeWei02/From-Signal-to-System) | ROS 2 course project: robot navigation as an end-to-end communication system — sensor fusion & SLAM front-end, occupancy grid & costmap, A* & DWA planning, PID control, wireless link simulation & QoS; LaTeX report included | `Python` | ⭐ 0 |
-| [Robotic-Navigation-and-Exploration](https://github.com/TeWei02/Robotic-Navigation-and-Exploration) | TAICA AI satellite course "Robot Navigation & Exploration": mapping, path planning, exploration strategies | `Python` | ⭐ 0 |
-| [final-project-ros2-navigation](https://github.com/TeWei02/final-project-ros2-navigation) | ROS 2 final project: vision-guided autonomous navigation — perception, localization & planning | `Python` | ⭐ 0 |
-| [qbridge](https://github.com/TeWei02/qbridge) | C++ core simulator (state vector, gates, measurement, Bell states, Deutsch-Jozsa/Grover) + Python CLI/visualization/teaching interface | `Python` | ⭐ 0 |
+| [From-Signal-to-System](https://github.com/TeWei02/From-Signal-to-System) | ROS 2 course project: robot navigation as an end-to-end communication system — sensor fusion & SLAM front-end, occupancy grid & costmap, A* & DWA planning, PID control, wireless link simulation & QoS; LaTeX report included | `Python` | — |
+| [Robotic-Navigation-and-Exploration](https://github.com/TeWei02/Robotic-Navigation-and-Exploration) | TAICA AI satellite course "Robot Navigation & Exploration": mapping, path planning, exploration strategies | `Python` | — |
+| [final-project-ros2-navigation](https://github.com/TeWei02/final-project-ros2-navigation) | ROS 2 final project: vision-guided autonomous navigation — perception, localization & planning | `Python` | — |
+| [qbridge](https://github.com/TeWei02/qbridge) | C++ core simulator (state vector, gates, measurement, Bell states, Deutsch-Jozsa/Grover) + Python CLI/visualization/teaching interface | `Python` | — |
 
 ### Reading & Tools
 
 | Project | Description | Language | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [vocabulary-cards](https://github.com/TeWei02/vocabulary-cards) | CEFR L1-L6 vocabulary cards PWA with images & audio | `HTML` | ⭐ 0 |
-| [Exam-Study-Site](https://github.com/TeWei02/Exam-Study-Site) | Data-driven past-exam study site: 111–115 school years, 5 subjects, static, offline, GitHub Pages-ready | `HTML` | ⭐ 0 |
-| [calc-tracker](https://github.com/TeWei02/calc-tracker) | Calculus practice & mistake tracking: Flask + SQLite quiz bank, mistake triage, review scheduling | `Python` | ⭐ 0 |
-| [application-package-generator](https://github.com/TeWei02/application-package-generator) | Local, offline application-package organizer (checklist, classify, missing-item check, export, handwriting sheets, bilingual) | `HTML` | ⭐ 0 |
-| [sensory-shield](https://github.com/TeWei02/sensory-shield) | Accessibility-first Chrome extension filtering sensory & cognitive overload — toggleable profiles, jargon glossary, built-in RAG knowledge base | `JavaScript` | ⭐ 0 |
-| [StatSigCalculator](https://github.com/TeWei02/StatSigCalculator) | A/B test significance & sample-size calculator — React + TypeScript PWA | `TypeScript` | ⭐ 0 |
-| [Davin-daily-briefs](https://github.com/TeWei02/Davin-daily-briefs) | Daily tech & business briefs: auto-curated industry notes as a static, offline-readable site | `HTML` | ⭐ 0 |
-| [writings](https://github.com/TeWei02/writings) | Public drafts of Te-Wei Ko's articles | `HTML` | ⭐ 0 |
+| [vocabulary-cards](https://github.com/TeWei02/vocabulary-cards) | CEFR L1-L6 vocabulary cards PWA with images & audio | `HTML` | — |
+| [Exam-Study-Site](https://github.com/TeWei02/Exam-Study-Site) | Data-driven past-exam study site: 111–115 school years, 5 subjects, static, offline, GitHub Pages-ready | `HTML` | — |
+| [calc-tracker](https://github.com/TeWei02/calc-tracker) | Calculus practice & mistake tracking: Flask + SQLite quiz bank, mistake triage, review scheduling | `Python` | — |
+| [application-package-generator](https://github.com/TeWei02/application-package-generator) | Local, offline application-package organizer (checklist, classify, missing-item check, export, handwriting sheets, bilingual) | `HTML` | — |
+| [sensory-shield](https://github.com/TeWei02/sensory-shield) | Accessibility-first Chrome extension filtering sensory & cognitive overload — toggleable profiles, jargon glossary, built-in RAG knowledge base | `JavaScript` | — |
+| [StatSigCalculator](https://github.com/TeWei02/StatSigCalculator) | A/B test significance & sample-size calculator — React + TypeScript PWA | `TypeScript` | — |
+| [Davin-daily-briefs](https://github.com/TeWei02/Davin-daily-briefs) | Daily tech & business briefs: auto-curated industry notes as a static, offline-readable site | `HTML` | — |
+| [writings](https://github.com/TeWei02/writings) | Public drafts of Te-Wei Ko's articles | `HTML` | — |
 
 ### Other / Systems & Web
 
 | Project | Description | Language | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [Real-time-Packet-Monitoring-and-Traffic-Statistics-System](https://github.com/TeWei02/Real-time-Packet-Monitoring-and-Traffic-Statistics-System) | Real-time packet capture, protocol parsing & traffic statistics | `Python` | ⭐ 0 |
-| [multithreaded-file-transfer-scheduler-simulator](https://github.com/TeWei02/multithreaded-file-transfer-scheduler-simulator) | C++17 multithreaded file-transfer & scheduling simulator: thread pool, work queue, scheduling policies, throughput/latency comparison | `C++` | ⭐ 0 |
-| [wildstream-guardian](https://github.com/TeWei02/wildstream-guardian) | Full-stack river water-quality monitoring: visualization, anomaly alerts & reports; zh-TW/zh-CN/EN/JA; static & offline-installable | `HTML` | ⭐ 0 |
-| [Carbon.Negtive](https://github.com/TeWei02/Carbon.Negtive) | Negative Carbon Technology Platform | `TypeScript` | ⭐ 0 |
-| [TeWei02.github.io](https://github.com/TeWei02/TeWei02.github.io) | Personal website & portfolio — Affective Computing × Semantic Computing × Interaction Design | `HTML` | ⭐ 0 |
-| [.github](https://github.com/TeWei02/.github) | Community health files: contributing guidelines, code of conduct, security policy, issue/PR templates | — | ⭐ 0 |
+| [Real-time-Packet-Monitoring-and-Traffic-Statistics-System](https://github.com/TeWei02/Real-time-Packet-Monitoring-and-Traffic-Statistics-System) | Real-time packet capture, protocol parsing & traffic statistics | `Python` | — |
+| [multithreaded-file-transfer-scheduler-simulator](https://github.com/TeWei02/multithreaded-file-transfer-scheduler-simulator) | C++17 multithreaded file-transfer & scheduling simulator: thread pool, work queue, scheduling policies, throughput/latency comparison | `C++` | — |
+| [wildstream-guardian](https://github.com/TeWei02/wildstream-guardian) | Full-stack river water-quality monitoring: visualization, anomaly alerts & reports; zh-TW/zh-CN/EN/JA; static & offline-installable | `HTML` | — |
+| [Carbon.Negtive](https://github.com/TeWei02/Carbon.Negtive) | Negative Carbon Technology Platform | `TypeScript` | — |
+| [TeWei02.github.io](https://github.com/TeWei02/TeWei02.github.io) | Personal website & portfolio — Affective Computing × Semantic Computing × Interaction Design | `HTML` | — |
+| [.github](https://github.com/TeWei02/.github) | Community health files: contributing guidelines, code of conduct, security policy, issue/PR templates | — | — |
 
 ---
 

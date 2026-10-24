@@ -21,15 +21,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TeWei02&show_icons=true&theme=blue-green&rank_icon=github&hide_border=true" alt="TeWei02's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeWei02&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com/?user=TeWei02&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=TeWei02&show_icons=true&theme=blue-green&rank_icon=github&hide_border=true&hide=stars,forks,prs,issues&card_width=495&border_radius=14" alt="TeWei02's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeWei02&layout=compact&theme=blue-green&hide_border=true&langs_count=6&card_width=445&border_radius=14" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=TeWei02&theme=blue-green&hide_border=true&border_radius=14" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=TeWei02&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=TeWei02&theme=onedark&no-frame=true&row=2&column=4&margin-w=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -62,6 +62,14 @@
 ## 宣言 · Manifesto
 
 > Self-taught AI & ROS 2 developer from Taiwan. I've rebuilt my path more than once — from drafting and architecture to software engineering — and I learn by breaking things open, then rebuilding them better. I build tools for focus and calm reading, because stories deserve to be *felt*, not just read.
+
+---
+
+## 休息一下 · Take a Break
+
+> 讀到這裡如果覺得有點累，那是正常的。慢慢來——喝口水、伸展一下、看看窗外 20 秒。
+> 這裡沒有截止期限，你的節奏永遠是對的。
+> *If reading this page feels heavy, pause for a moment — rest counts too.*
 
 ---
 
@@ -139,45 +147,45 @@
 
 | 專案 | 簡介 | 主語言 | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [**ModernReader**](https://github.com/TeWei02/ModernReader) | Project H.O.L.O. —— 現代化 Markdown 閱讀與內容管理工具。以純文字 Markdown 為核心，支援分類資料夾與日期自動歸檔（YYYYMMDD_ 前綴）、EPUB／TXT／MD 匯入、語音導讀、情緒標記與 AI 摘要，可安裝為 PWA 離線使用。內含核心解析器與執行環境、行動端應用、Docker 容器化部署與完整 CI/CD 流程。 | `Python` | ⭐ 0 |
-| [agent-commons](https://github.com/TeWei02/agent-commons) | 切磋會 · Agent Commons —— 可自架的 AI 代理人經驗交換所。代理人帳號發起主題，人類帳號回應、點讚、收藏與圍觀，把驗證過的經驗沉澱成可複製的步驟。後端 FastAPI + SQLAlchemy 2.0 + SQLite（可切 PostgreSQL），前端原生 ES Modules 零建置，內建帳號權限、限流、邀請制註冊、SSE 即時推播、檢舉審核與備份，單一 uvicorn 進程即可對外服務。 | `Python` | ⭐ 0 |
-| [Modern_agent](https://github.com/TeWei02/Modern_agent) | 現代化 AI Agent 框架的規劃倉庫：工具使用、情境記憶管理、多模型整合與任務規劃的設計方法探索。 | — | ⭐ 0 |
-| [UNIVERSAAL_AGENT](https://github.com/TeWei02/UNIVERSAAL_AGENT) | 通用型 AI Agent 系統的規劃倉庫：跨領域任務規劃、工具整合、知識管理與人機協作介面的統一架構設計。 | — | ⭐ 0 |
-| [agent_full](https://github.com/TeWei02/agent_full) | 在 macOS 上以開源模型與 RAG 搭建個人助理的實驗筆記：本地 LLM 推論與雲端 API 整合，附 flake8 + pytest 的 GitHub Actions CI。 | — | ⭐ 0 |
-| [iq-analysis-bot](https://github.com/TeWei02/iq-analysis-bot) | 互動式智力測驗網頁：線上作答、即時計分與能力面向分析，純前端即可使用。 | `HTML` | ⭐ 0 |
+| [**ModernReader**](https://github.com/TeWei02/ModernReader) | Project H.O.L.O. —— 現代化 Markdown 閱讀與內容管理工具。以純文字 Markdown 為核心，支援分類資料夾與日期自動歸檔（YYYYMMDD_ 前綴）、EPUB／TXT／MD 匯入、語音導讀、情緒標記與 AI 摘要，可安裝為 PWA 離線使用。內含核心解析器與執行環境、行動端應用、Docker 容器化部署與完整 CI/CD 流程。 | `Python` | — |
+| [agent-commons](https://github.com/TeWei02/agent-commons) | 切磋會 · Agent Commons —— 可自架的 AI 代理人經驗交換所。代理人帳號發起主題，人類帳號回應、點讚、收藏與圍觀，把驗證過的經驗沉澱成可複製的步驟。後端 FastAPI + SQLAlchemy 2.0 + SQLite（可切 PostgreSQL），前端原生 ES Modules 零建置，內建帳號權限、限流、邀請制註冊、SSE 即時推播、檢舉審核與備份，單一 uvicorn 進程即可對外服務。 | `Python` | — |
+| [Modern_agent](https://github.com/TeWei02/Modern_agent) | 現代化 AI Agent 框架的規劃倉庫：工具使用、情境記憶管理、多模型整合與任務規劃的設計方法探索。 | — | — |
+| [UNIVERSAAL_AGENT](https://github.com/TeWei02/UNIVERSAAL_AGENT) | 通用型 AI Agent 系統的規劃倉庫：跨領域任務規劃、工具整合、知識管理與人機協作介面的統一架構設計。 | — | — |
+| [agent_full](https://github.com/TeWei02/agent_full) | 在 macOS 上以開源模型與 RAG 搭建個人助理的實驗筆記：本地 LLM 推論與雲端 API 整合，附 flake8 + pytest 的 GitHub Actions CI。 | — | — |
+| [iq-analysis-bot](https://github.com/TeWei02/iq-analysis-bot) | 互動式智力測驗網頁：線上作答、即時計分與能力面向分析，純前端即可使用。 | `HTML` | — |
 
 ### Robotics & ROS2
 
 | 專案 | 簡介 | 主語言 | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [From-Signal-to-System](https://github.com/TeWei02/From-Signal-to-System) | ROS 2 課程專題：把機器人導航視為一條端到端通訊系統。內含感測融合與 SLAM 前端、佔據柵格與 costmap、A* 全域規劃與 DWA 區域規劃、PID 速度控制，以及無線鏈路模擬與 QoS 設定，量化頻寬、延遲與封包遺失對探索效率的影響，並附 LaTeX 技術報告與分析筆記。 | `Python` | ⭐ 0 |
-| [Robotic-Navigation-and-Exploration](https://github.com/TeWei02/Robotic-Navigation-and-Exploration) | TAICA 台灣人工智慧大學聯盟「機器導航與探索」衛星課程作業：涵蓋地圖建構、路徑規劃與探索策略的實作。 | `Python` | ⭐ 0 |
-| [final-project-ros2-navigation](https://github.com/TeWei02/final-project-ros2-navigation) | ROS 2 期末專題：以視覺引導自主導航，涵蓋感知、定位與路徑規劃的完整實作。 | `Python` | ⭐ 0 |
-| [qbridge](https://github.com/TeWei02/qbridge) | C++ 負責核心模擬器，實作 state vector、量子 gate 套用、measurement、Bell state、Deutsch-Jozsa 或 Grover 的小型示範。  Python 負責 CLI / 視覺化 / 教學介面，例如讀取簡化版電路描述、呼叫 C++ 執行、畫出 amplitude / probability、輸出結果報告。 | `Python` | ⭐ 0 |
+| [From-Signal-to-System](https://github.com/TeWei02/From-Signal-to-System) | ROS 2 課程專題：把機器人導航視為一條端到端通訊系統。內含感測融合與 SLAM 前端、佔據柵格與 costmap、A* 全域規劃與 DWA 區域規劃、PID 速度控制，以及無線鏈路模擬與 QoS 設定，量化頻寬、延遲與封包遺失對探索效率的影響，並附 LaTeX 技術報告與分析筆記。 | `Python` | — |
+| [Robotic-Navigation-and-Exploration](https://github.com/TeWei02/Robotic-Navigation-and-Exploration) | TAICA 台灣人工智慧大學聯盟「機器導航與探索」衛星課程作業：涵蓋地圖建構、路徑規劃與探索策略的實作。 | `Python` | — |
+| [final-project-ros2-navigation](https://github.com/TeWei02/final-project-ros2-navigation) | ROS 2 期末專題：以視覺引導自主導航，涵蓋感知、定位與路徑規劃的完整實作。 | `Python` | — |
+| [qbridge](https://github.com/TeWei02/qbridge) | C++ 負責核心模擬器，實作 state vector、量子 gate 套用、measurement、Bell state、Deutsch-Jozsa 或 Grover 的小型示範。  Python 負責 CLI / 視覺化 / 教學介面，例如讀取簡化版電路描述、呼叫 C++ 執行、畫出 amplitude / probability、輸出結果報告。 | `Python` | — |
 
 ### Reading & Tools
 
 | 專案 | 簡介 | 主語言 | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [vocabulary-cards](https://github.com/TeWei02/vocabulary-cards) | 大考中心字彙總表 L1-L6 圖文單字卡 PWA | `HTML` | ⭐ 0 |
-| [Exam-Study-Site](https://github.com/TeWei02/Exam-Study-Site) | 資料驅動的考古題解題學習站：涵蓋 111–115 五個學年度、五個科目，純靜態、可離線、可直接部署到 GitHub Pages。新增科目或年份只要改一個索引檔。 | `HTML` | ⭐ 0 |
-| [calc-tracker](https://github.com/TeWei02/calc-tracker) | 微積分練習與錯題管理系統：以 Flask + SQLite 打造的題庫練習、錯題歸納與複習排程工具。 | `Python` | ⭐ 0 |
-| [application-package-generator](https://github.com/TeWei02/application-package-generator) | 書審資料包產生器 — 純本機、可離線的備審資料整理工具（盤點、歸類、缺件檢查、匯出清單、手寫稿紙、雙語） | `HTML` | ⭐ 0 |
-| [sensory-shield](https://github.com/TeWei02/sensory-shield) | Accessibility-first Chrome extension that filters sensory and cognitive overload — toggleable profiles, jargon glossary, and a built-in RAG knowledge base. | `JavaScript` | ⭐ 0 |
-| [StatSigCalculator](https://github.com/TeWei02/StatSigCalculator) | A/B Test 統計顯著性與樣本數計算器 — React + TypeScript PWA | `TypeScript` | ⭐ 0 |
-| [Davin-daily-briefs](https://github.com/TeWei02/Davin-daily-briefs) | 每日科技與商業摘要：自動彙整的產業觀察筆記，以靜態網站形式呈現，可離線閱讀。 | `HTML` | ⭐ 0 |
-| [writings](https://github.com/TeWei02/writings) | 柯德瑋的公開文章原稿 | `HTML` | ⭐ 0 |
+| [vocabulary-cards](https://github.com/TeWei02/vocabulary-cards) | 大考中心字彙總表 L1-L6 圖文單字卡 PWA | `HTML` | — |
+| [Exam-Study-Site](https://github.com/TeWei02/Exam-Study-Site) | 資料驅動的考古題解題學習站：涵蓋 111–115 五個學年度、五個科目，純靜態、可離線、可直接部署到 GitHub Pages。新增科目或年份只要改一個索引檔。 | `HTML` | — |
+| [calc-tracker](https://github.com/TeWei02/calc-tracker) | 微積分練習與錯題管理系統：以 Flask + SQLite 打造的題庫練習、錯題歸納與複習排程工具。 | `Python` | — |
+| [application-package-generator](https://github.com/TeWei02/application-package-generator) | 書審資料包產生器 — 純本機、可離線的備審資料整理工具（盤點、歸類、缺件檢查、匯出清單、手寫稿紙、雙語） | `HTML` | — |
+| [sensory-shield](https://github.com/TeWei02/sensory-shield) | Accessibility-first Chrome extension that filters sensory and cognitive overload — toggleable profiles, jargon glossary, and a built-in RAG knowledge base. | `JavaScript` | — |
+| [StatSigCalculator](https://github.com/TeWei02/StatSigCalculator) | A/B Test 統計顯著性與樣本數計算器 — React + TypeScript PWA | `TypeScript` | — |
+| [Davin-daily-briefs](https://github.com/TeWei02/Davin-daily-briefs) | 每日科技與商業摘要：自動彙整的產業觀察筆記，以靜態網站形式呈現，可離線閱讀。 | `HTML` | — |
+| [writings](https://github.com/TeWei02/writings) | 柯德瑋的公開文章原稿 | `HTML` | — |
 
 ### Other / Systems & Web
 
 | 專案 | 簡介 | 主語言 | ⭐ |
 | :--- | :--- | :--- | :--- |
-| [Real-time-Packet-Monitoring-and-Traffic-Statistics-System](https://github.com/TeWei02/Real-time-Packet-Monitoring-and-Traffic-Statistics-System) | 即時封包監測與流量統計系統：擷取網路封包、解析協定並統計流量分佈，為網路程式設計課程實作。 | `Python` | ⭐ 0 |
-| [multithreaded-file-transfer-scheduler-simulator](https://github.com/TeWei02/multithreaded-file-transfer-scheduler-simulator) | C++17 多執行緒檔案傳輸與排程模擬器：實作執行緒池、工作佇列與排程策略，並比較吞吐量與延遲。 | `C++` | ⭐ 0 |
-| [wildstream-guardian](https://github.com/TeWei02/wildstream-guardian) | 野溪守護者 — 全端河川水質監測平台：水質資料視覺化、異常警示與回報，支援繁中／簡中／English／日本語四語介面，純靜態可離線安裝。 | `HTML` | ⭐ 0 |
-| [Carbon.Negtive](https://github.com/TeWei02/Carbon.Negtive) | Negative Carbon Technology Platform — 負碳技術平台 | `TypeScript` | ⭐ 0 |
-| [TeWei02.github.io](https://github.com/TeWei02/TeWei02.github.io) | 柯德瑋 Te-Wei Ko — Personal website & portfolio | Affective Computing × Semantic Computing × Interaction Design | `HTML` | ⭐ 0 |
-| [.github](https://github.com/TeWei02/.github) | 帳號共用社群健康檔案：貢獻指南、行為準則、安全性政策與 Issue / PR 範本 | — | ⭐ 0 |
+| [Real-time-Packet-Monitoring-and-Traffic-Statistics-System](https://github.com/TeWei02/Real-time-Packet-Monitoring-and-Traffic-Statistics-System) | 即時封包監測與流量統計系統：擷取網路封包、解析協定並統計流量分佈，為網路程式設計課程實作。 | `Python` | — |
+| [multithreaded-file-transfer-scheduler-simulator](https://github.com/TeWei02/multithreaded-file-transfer-scheduler-simulator) | C++17 多執行緒檔案傳輸與排程模擬器：實作執行緒池、工作佇列與排程策略，並比較吞吐量與延遲。 | `C++` | — |
+| [wildstream-guardian](https://github.com/TeWei02/wildstream-guardian) | 野溪守護者 — 全端河川水質監測平台：水質資料視覺化、異常警示與回報，支援繁中／簡中／English／日本語四語介面，純靜態可離線安裝。 | `HTML` | — |
+| [Carbon.Negtive](https://github.com/TeWei02/Carbon.Negtive) | Negative Carbon Technology Platform — 負碳技術平台 | `TypeScript` | — |
+| [TeWei02.github.io](https://github.com/TeWei02/TeWei02.github.io) | 柯德瑋 Te-Wei Ko — Personal website & portfolio | Affective Computing × Semantic Computing × Interaction Design | `HTML` | — |
+| [.github](https://github.com/TeWei02/.github) | 帳號共用社群健康檔案：貢獻指南、行為準則、安全性政策與 Issue / PR 範本 | — | — |
 
 ---
 

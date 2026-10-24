@@ -2,7 +2,30 @@ name: Daily Commit
 
 on:
   schedule:
-    - cron: '30 0 * * *'
+    - cron: '3 0 * * *'
+    - cron: '17 1 * * *'
+    - cron: '31 2 * * *'
+    - cron: '47 3 * * *'
+    - cron: '9 4 * * *'
+    - cron: '23 5 * * *'
+    - cron: '37 6 * * *'
+    - cron: '51 7 * * *'
+    - cron: '5 8 * * *'
+    - cron: '19 9 * * *'
+    - cron: '33 10 * * *'
+    - cron: '49 11 * * *'
+    - cron: '2 12 * * *'
+    - cron: '16 13 * * *'
+    - cron: '28 14 * * *'
+    - cron: '42 15 * * *'
+    - cron: '54 16 * * *'
+    - cron: '7 17 * * *'
+    - cron: '21 18 * * *'
+    - cron: '35 19 * * *'
+    - cron: '44 20 * * *'
+    - cron: '58 21 * * *'
+    - cron: '12 22 * * *'
+    - cron: '26 23 * * *'
   workflow_dispatch:
 
 permissions:
@@ -30,7 +53,7 @@ jobs:
             echo "# Daily Activity" > "$file"
             echo "" >> "$file"
           fi
-          echo "- $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> "$file"
+          echo "- $(date -u +'%Y-%m-%d %H:%M:%S UTC') · $(date -u +'%A') · Day $(date -u +'%j')" >> "$file"
 
       - name: Commit and push
         run: |
@@ -38,7 +61,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: daily activity update $(date -u +'%Y-%m-%d')"
+            git commit -m "chore: hourly activity update $(date -u +'%Y-%m-%d') ($(date -u +'%A')) $(date -u +'%H:%M') UTC"
             git push
           fi
         env:
