@@ -10,6 +10,7 @@
 [![Website](https://img.shields.io/badge/Website-tewei02.github.io-6ea8fe?style=flat-square&logo=githubpages&logoColor=white)](https://tewei02.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1348--3558-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1348-3558)
 [![Email](https://img.shields.io/badge/Email-tewei.ko0418@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ROS2+Developer;LLM+Fine-tuning+%26+Edge+AI;Building+ModernReader+for+Cognitive+Rythm+Alignment" alt="Typing SVG" />
 
@@ -276,6 +277,12 @@ Beyond research, I take **software development commissions** and **programming t
 | — | National Tainan Industrial High School | Mechanical Drafting |
 
 **Honors**　Southern Taiwan Literature Award, short-story category (Honorable Mention) · Finalist, Cross-Strait Entrepreneurship Competition · Young Flying Global Action Program
+
+---
+
+## License
+
+Contents of this repository (README, project matrix and daily activity log) are released under the [MIT License](LICENSE). Please keep the copyright notice when reusing.
 
 ---
 

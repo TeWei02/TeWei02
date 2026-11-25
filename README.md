@@ -10,6 +10,7 @@
 [![Website](https://img.shields.io/badge/Website-tewei02.github.io-6ea8fe?style=flat-square&logo=githubpages&logoColor=white)](https://tewei02.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1348--3558-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1348-3558)
 [![Email](https://img.shields.io/badge/Email-tewei.ko0418@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tewei.ko0418@gmail.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=AI+%26+ROS2+Developer;LLM+Fine-tuning+%26+Edge+AI;Building+ModernReader+for+Cognitive+Rythm+Alignment" alt="Typing SVG" />
 [![中文版](https://img.shields.io/badge/中文版-README.md-38BDF8?style=flat-square)](https://github.com/TeWei02/TeWei02/blob/main/README.md) [![English](https://img.shields.io/badge/English-README.en.md-38BDF8?style=flat-square)](https://github.com/TeWei02/TeWei02/blob/main/README.en.md)
 
@@ -278,6 +279,12 @@
 | — | **國立臺南高工** | 機械製圖科 |
 
 **榮譽**　南臺文學獎 短篇小說組佳作 · 海峽兩岸創業大賽 決賽入圍 · Young 飛全球行動
+
+---
+
+## 授權
+
+本倉庫內容（README、專案矩陣與每日活動紀錄）採 [MIT License](LICENSE) 授權，轉載或引用時請保留著作權聲明。
 
 ---
 
